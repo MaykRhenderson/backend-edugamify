@@ -24,7 +24,7 @@ Backend desenvolvido em Node.js/Express que gerencia:
 - Gilson Kelvin Arruda Sales
 - Crisnando Lima De Jesus
 - Joao Paulo Victorino Pierre
-- Wendell Pires Dos Santos
+- Wendell Pires Dos Santos 
 - Mayk Rhenderson
 - Gustavo Silva
 - Joao Vitor Rodrigues Costa
