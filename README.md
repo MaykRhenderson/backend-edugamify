@@ -13,7 +13,7 @@ Backend desenvolvido em Node.js/Express que gerencia:
 ## 🛠️ Tecnologias
 
 - **Node.js** - Runtime JavaScript
-- **Express** - Framework web
+- **Express** - Framework 
 - **Supabase** - Banco de dados PostgreSQL na nuvem
 - **CORS** - Compartilhamento entre domínios
 - **Dotenv** - Gerenciamento de variáveis ambiente
