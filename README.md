@@ -1,12 +1,12 @@
 # 🚀 EduGamify - Backend API
 
-API RESTful para o sistema de gamificação educacional EduGamify.
+API RESTful para o Sistema de gamificação educacional EduGamify.
 
 ## 📋 Sobre
 
 Backend desenvolvido em Node.js/Express que gerencia:
 - Alunos e pontuações
-- Catálogo de recompensas
+- Catálogos de recompensas
 - Histórico de atividades
 - Solicitações de resgate
 
